@@ -1,3 +1,4 @@
+![gitartwork](gitartwork.svg)
 
-RAWR
- ![gitartwork](gitartwork.svg)
+I'm a software dumb with a burning passion for learning and development. I specialize in Artificial Intelligence (AI) and Pokémon. Python, Tensorflow, Sk-learn, Pytorch, Numpy, Pandas, Spark, Keras, Seaborn, SQL are my best skills.
+But wait, there's more! [] Just like my dino buddy, I can sniff out solutions and develop AI-based wonders to solve any problem thrown my way. Teamwork, innovation, and problem-solving are my jam, just like catching 'em all in Pokémon! But let's not forget my true love—my three adorable doggos! [Insert photo of my adorable furballs here] They're my loyal sidekicks as I conquer new challenges and technologies with gusto. So, if you're ready to unleash some serious coding power with a touch of Colombian charm and a sprinkle of doggy love, buckle up and join me on this wild adventure! Let's make technology roar like a T-Rex and leave our mark on the digital world!
