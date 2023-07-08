@@ -1,4 +1,4 @@
-![gitartwork](gitartwork.svg)
+
 
 # Santiago Leal
 
@@ -20,14 +20,15 @@ Teamwork, innovation, and problem-solving are my jam, just like catching 'em all
 ![DOGS](046dfe71-8379-41ac-88eb-f23d6df3de8b.jpg)
 
 They're my buddys as I conquer new challenges and technologies.
+
 [**📨 Email Me →**](mailto:)
 
-[**🤙 Call Me →**](tel:)
 
 [**📝 My Resume →**](https://www.notion.so/templates/resume)
+
 ↓ Here is some of my work!
 
-
+![gitartwork](gitartwork.svg)
 ---
 
 
