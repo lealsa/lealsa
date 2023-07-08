@@ -8,7 +8,7 @@
 
 </aside>
 
-> Santiago Leal
+> noUsoGitHub
 > 
 > 
 > I'm a software dumb with a burning passion for learning and development. I specialize in Artificial Intelligence (AI) and Pokémon. Python, Tensorflow, Sk-learn, Pytorch, Numpy, Pandas, Spark, Keras, Seaborn, SQL are my best skills.
