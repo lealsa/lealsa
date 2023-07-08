@@ -4,7 +4,7 @@
 
 <aside>
 
-![https://www.notion.socheems-doge.gif](https://www.notion.socheems-doge.gif)
+![cheems-doge.gif](cheems-doge.gif)
 
 </aside>
 
@@ -15,20 +15,19 @@
 > But wait, there's more!
 > 
 
-Teamwork, innovation, and problem-solving are my jam, just like catching 'em all in Pokémon! But let's not forget my true love—my three adorable doggos! 
+Teamwork, innovation, and problem-solving are my jam, just like catching 'em all in Pokémon! But let's not forget my true love—my adorable doggos! 
 
-![https://www.notion.socheems-doge.gif](https://www.notion.socheems-doge.gif)
+![DOGS](046dfe71-8379-41ac-88eb-f23d6df3de8b.jpg)
 
- They're my buddys as I conquer new challenges and technologies.
-
-↓ Here is some of my work!
-
-[My projects](Santiago%20Leal%201a4cffbffea445ea977c9a3a264817a0/My%20projects%20caed50e5a3b4400fbd41a9ce09e66387.csv)
-
----
-
+They're my buddys as I conquer new challenges and technologies.
 [**📨 Email Me →**](mailto:)
 
 [**🤙 Call Me →**](tel:)
 
 [**📝 My Resume →**](https://www.notion.so/templates/resume)
+↓ Here is some of my work!
+
+
+---
+
+
