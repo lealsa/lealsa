@@ -31,10 +31,10 @@ Teamwork, innovation, and problem-solving are my jam, just like catching 'em all
 
 They're my buddys as I conquer new challenges and technologies.
 
-[**📨 Email Me →**](mailto:)
+[**📨 Email Me →**](mailto:santiagolealomana@hotmail.com)
 
 
-[**📝 My Resume →**](https://www.notion.so/templates/resume)
+[**📝 My Resume →**]()
 
 ↓ Here is some of my work!
 
